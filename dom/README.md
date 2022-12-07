@@ -1,7 +1,6 @@
 ## [프로그래머스 - 프론트엔드 미니 데브코스]
-
-#### ⭐CNU SW Academy 5일차 (22.12.07.)
-
+#### ⭐ CNU SW Academy 5일차 (22.12.07.)
+#### Text Editor 만들기
 
 DOM 선택
 > querySelectorAll
