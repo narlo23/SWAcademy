@@ -1,0 +1,35 @@
+.toolbar {
+    width: 600px;
+    height: 40px;
+    padding: 5px;
+    border: 2px solid black;
+    border-collapse : collapse;
+    background-color:lightslategrey;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.toolbar button {
+    display: inline-block;
+    height: 24px;
+    border: 2px solid black;
+    cursor: pointer;
+    background-color: white;
+}
+
+.toolbar button:hover {
+    background-color: gray;
+}
+
+.editor {
+    width: 600px;
+    height: 600px;
+    padding: 16px;
+    font-size: 12px;
+    border: 2px solid black;
+    border-top: none;
+    border-collapse : collapse;
+    box-sizing: border-box;
+    outline: none;
+}
+
