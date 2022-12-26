@@ -1,10 +1,10 @@
-function Header({$target, text}) {
-    const $header = document.createElement('h1')
+export default function Header({ $target, text }) {
+  const $header = document.createElement("h1");
 
-    $target.appendChild($header)
+  $target.appendChild($header);
 
-    this.render = () => {
-        $header.textContent = text
-    }
-    this.render()
+  this.render = () => {
+    $header.textContent = text;
+  };
+  this.render();
 }
